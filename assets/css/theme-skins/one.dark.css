@@ -1,0 +1,150 @@
+/*Dark Version
+------------------------------------*/
+body.dark {
+  background: #fff;
+}
+
+body.dark h1,
+body.dark h2,
+body.dark h3,
+body.dark h4,
+body.dark h5,
+body.dark h6 {
+  color: #111e90;
+  font-weight: 200;
+}
+
+body.dark p, li, li a {
+  color: #000;
+}
+
+body.dark .headline {
+  border-bottom: 1px dotted #555;
+}
+
+body.dark i.icon-bg-dark {
+  color: #ccc;
+  background: #fff;
+}
+
+/*Header*/
+body.dark .top-nav-collapse {
+  box-shadow: none;
+  background: #fff;
+}
+
+body.dark .top-nav-collapse .navbar-brand,
+body.dark .top-nav-collapse .navbar-nav > li > a,
+body.dark .top-nav-collapse.navbar-default .navbar-nav > li > a:before {
+  /*color: #eee;*/
+}
+
+body.dark .top-nav-collapse .navbar-brand {
+  color: #eee !important; 
+}
+
+body.dark .top-nav-collapse.navbar-default .navbar-toggle .icon-bar {
+  background: #fff;
+}
+
+body.dark .top-nav-collapse .navbar-brand, 
+body.dark .top-nav-collapse .navbar-nav > li > a, 
+body.dark .top-nav-collapse.navbar-default .navbar-nav > li > a:before {
+  color: #2a7de2;
+}
+
+body.dark .top-nav-collapse .navbar-nav > .active > a, 
+body.dark .top-nav-collapse .navbar-nav > .active > a:hover, 
+body.dark .top-nav-collapse .navbar-nav > .active > a:focus {
+    color: #111e90;
+}
+
+/*Content*/
+body.dark .team-v1,
+body.dark .news-section,
+body.dark .about-section .about-image {
+  background: #fff;
+  border-bottom-color: #2a7de2; 
+}
+
+/*Revolution Slider*/
+body.dark .tp-bannertimer {
+  background: #fff;
+}
+
+/*Cube Portfolio*/
+body.dark .cbp-l-inline-title {
+  color: #ccc;
+}
+
+body.dark .cbp-l-inline-desc {
+  color: #999;
+}
+
+body.dark .cbp-l-filters-alignLeft .cbp-filter-item {
+  background: #fff;
+  border-color: #222;
+}
+
+body.dark .cbp-l-inline {
+  background: #fff;
+}
+
+body.dark .cbp-l-inline-view,
+body.dark .cbp-l-loadMore-button-link {
+  border-color: #555;
+}
+
+body.dark .cbp-l-inline-view:hover {
+  text-decoration: none;
+}
+
+/*Parallax Quote*/
+body.dark .parallax-quote-in p {
+  color: #ccc;
+}
+
+/*Service Box v1*/
+body.dark .service-box-v1 .service-block {
+  background: #fff;
+  border-color: #171717;
+}
+
+body.dark .service-box-v1 .service-block:hover {
+  box-shadow: 0 0 8px #111;
+}
+
+/*News v1*/
+body.dark .news-v1 h3 a {
+  color: #777;
+}
+
+body.dark .news-v1 .news-v1-in {
+  background: #fff;
+}
+
+body.dark .news-v1 .news-v1-info {
+  border-top-color: #222;
+}
+
+/*Parallax Twitter Block*/
+body.dark .parallax-twitter-in li p {
+  color: #eee;
+}
+
+/*Testimonials v3*/
+body.dark .testimonials-v3 .owl-buttons .owl-prev, 
+body.dark .testimonials-v3 .owl-buttons .owl-next {
+  background-color: #fff;
+}
+
+body.dark .testimonials-v3 .owl-buttons .owl-prev:hover, 
+body.dark .testimonials-v3 .owl-buttons .owl-next:hover {
+  background-color: #fff;
+}
+
+/*Copyright Section*/
+body.dark .copyright-section,
+body.dark .copyright-section i.back-to-top {
+  background: #fff;
+}
