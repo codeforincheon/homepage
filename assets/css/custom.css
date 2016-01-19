@@ -1,1 +1,11 @@
 /* Add here all your css styles (customizations) */
+body {
+    margin: 0;
+    opacity: 0;
+}
+
+/* Loaded body */
+body.loaded {
+    opacity: 1;
+    transition: 1s opacity;
+}
